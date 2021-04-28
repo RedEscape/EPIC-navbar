@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/EPIC-navbar/static/css/main.c8aae4e8.chunk.css",
+    "main.js": "/EPIC-navbar/static/js/main.9cb8ea12.chunk.js",
+    "main.js.map": "/EPIC-navbar/static/js/main.9cb8ea12.chunk.js.map",
+    "runtime-main.js": "/EPIC-navbar/static/js/runtime-main.6060a4d3.js",
+    "runtime-main.js.map": "/EPIC-navbar/static/js/runtime-main.6060a4d3.js.map",
+    "static/js/2.7baa4220.chunk.js": "/EPIC-navbar/static/js/2.7baa4220.chunk.js",
+    "static/js/2.7baa4220.chunk.js.map": "/EPIC-navbar/static/js/2.7baa4220.chunk.js.map",
+    "index.html": "/EPIC-navbar/index.html",
+    "static/css/main.c8aae4e8.chunk.css.map": "/EPIC-navbar/static/css/main.c8aae4e8.chunk.css.map",
+    "static/js/2.7baa4220.chunk.js.LICENSE.txt": "/EPIC-navbar/static/js/2.7baa4220.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/EPIC-navbar/static/media/img-8.60a9d1e5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6060a4d3.js",
+    "static/js/2.7baa4220.chunk.js",
+    "static/css/main.c8aae4e8.chunk.css",
+    "static/js/main.9cb8ea12.chunk.js"
+  ]
+}
