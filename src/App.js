@@ -21,7 +21,7 @@ function App() {
         <Route path="/services" exact component={Services} />
         <Route path="/products" exact component={Products} />
         <Route path="/contact-us" exact component={ContactUs} />
-        <Route path="/sign-ap" exact component={SignUp} />
+        <Route path="/sign-up" exact component={SignUp} />
         <Route path="/marketing" exact component={Marketing} />
         <Route path="/consulting" exact component={Consulting} />
         <Route path="/development" exact component={Development} />
